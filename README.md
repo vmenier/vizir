@@ -1,4 +1,4 @@
-# ![My image](https://github.com/aloseille/vizir/blob/master/imgs/vizir-icon.png) 
+# ![My image](https://github.com/aloseille/vizir/blob/master/imgs/vizir-icon.png) Vizir
 
 
 Vizir is an interactive mesh visualization software handling simplicial, hybrid elements and high-order curved 
