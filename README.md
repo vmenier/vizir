@@ -3,6 +3,8 @@
 Vizir is an interactive mesh visualization software handling simplicial, hybrid elements and high-order curved 
 elements. 
 
+[[https://github.com/aloseille/vizir/master/imgs/vizir.png|alt=octocat]]
+
 ### Prerequisites
 
 To be able to compile, install and use Vizir, please be aware that :
