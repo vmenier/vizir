@@ -7,9 +7,9 @@ elements.
 
 To be able to compile, install and use Vizir, please be aware that :
 
-* The GUI is built on top of [Qt5](thttps://www.qt.io/download/)
+* The GUI is built on top of [Qt5](https://www.qt.io/download)
 
-* Your graphic card should have openGL 4.0 support.
+* Your graphic card should have [openGL 4.0](https://www.opengl.org/wiki/Getting_Started) support.
 
 * The native format for Vizir is the INRIA .mesh[b] and .sol[b] for solution. You can download
 the [libmeshb](https://github.com/LoicMarechal/libMeshb) library to read/write this format. 
